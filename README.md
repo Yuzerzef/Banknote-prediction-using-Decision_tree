@@ -1,5 +1,12 @@
 # Banknote prediction using Decision tree 
 
+* The primary objective of this project was to develop an automated learning model that can classify banknotes based on their features.
+* As a learning algorithm, a decision tree is used.
+* The obtained accuracy, precision, and recall are 99%, 98.5%, and 98.5%, respectively.
+
+
+### Language used: Python 
+#### Tools used : pandas, numpy, seaborn, matplotlib, sklearn
 
 
 
